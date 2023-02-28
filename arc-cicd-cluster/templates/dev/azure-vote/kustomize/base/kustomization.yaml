@@ -5,8 +5,8 @@ namespace: dev
 
 images:
   - name: arcagenttestacr.azurecr.io/azvote/azure-vote-front
-    newTag: f8af00d34c2bae2bc0c9f5d9b0a971b823d42b29
+    newTag: 1746119d0949f972d8bc71d429da2da024318f6f
   - name: arcagenttestacr.azurecr.io/azvote/azure-vote-back
-    newTag: f8af00d34c2bae2bc0c9f5d9b0a971b823d42b29
+    newTag: 1746119d0949f972d8bc71d429da2da024318f6f
 resources:
   - manifests.yaml
